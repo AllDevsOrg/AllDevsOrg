@@ -1,3 +1,1 @@
-<kbd>
-<img src="https://i.imgur.com/a1XFCSn.png" style="border-radius: 30px;">
-<kbd>
+<kbd>![](https://i.imgur.com/a1XFCSn.png)</kbd>
