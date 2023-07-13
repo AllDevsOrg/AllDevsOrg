@@ -1,1 +1,3 @@
-<img src="https://i.imgur.com/a1XFCSn.png" height="auto" width="auto" style="border-radius:50%">
+<kbd>
+<img src="https://i.imgur.com/a1XFCSn.png" style="border-radius: 30px;">
+<kbd>
