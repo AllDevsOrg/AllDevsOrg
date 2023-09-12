@@ -1,1 +1,1 @@
-<img src="https://i.imgur.com/BhWrhF3.gif" />
+![](https://github.com/AllDevsOrg/.github/blob/main/profile/devs.gif)
